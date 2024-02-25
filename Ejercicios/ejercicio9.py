@@ -8,4 +8,5 @@ def main():
 	car = input('Caracter ')
 	print(digito(car))
 
-main()
+if __name__ == '__main__':
+	main()
