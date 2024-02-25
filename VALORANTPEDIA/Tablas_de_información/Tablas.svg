@@ -1,0 +1,1275 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1080"
+   height="650"
+   viewBox="0 0 285.74999 171.97917"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="Tablas.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showguides="true"
+     inkscape:zoom="1.9222829"
+     inkscape:cx="672.11752"
+     inkscape:cy="-39.276217"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer8" />
+  <defs
+     id="defs1">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter83"
+       x="-0.17774839"
+       y="-0.044916981"
+       width="1.3554968"
+       height="1.089834">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.1710373"
+         id="feGaussianBlur83" />
+    </filter>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="Tabla 1"
+     sodipodi:insensitive="true">
+    <g
+       inkscape:label="Background"
+       inkscape:groupmode="layer"
+       id="layer1"
+       style="display:inline"
+       sodipodi:insensitive="true">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.0807188"
+         id="rect1"
+         width="149.85429"
+         height="90.157951"
+         x="115.97889"
+         y="63.815601"
+         inkscape:label="Blackbg" />
+      <rect
+         style="display:inline;opacity:0.5;mix-blend-mode:normal;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.264687;stroke-dasharray:none;filter:url(#filter83)"
+         id="rect83"
+         width="15.811618"
+         height="62.570759"
+         x="167.84641"
+         y="86.085472"
+         ry="0"
+         transform="matrix(0.88407973,0,0,0.98966959,20.373244,1.1449178)"
+         inkscape:label="ColourShadow" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer5"
+       inkscape:label="Rejilla"
+       sodipodi:insensitive="true">
+      <rect
+         style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.0714125"
+         id="rect16"
+         width="0.20457266"
+         height="69.25074"
+         x="-167.93729"
+         y="82.081161"
+         ry="1.5738806"
+         transform="scale(-1,1)" />
+      <rect
+         style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.0714125"
+         id="rect17"
+         width="0.20457266"
+         height="69.25074"
+         x="-183.81207"
+         y="82.081161"
+         ry="1.5738806"
+         transform="scale(-1,1)" />
+      <rect
+         style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.0714125"
+         id="rect18"
+         width="0.20457266"
+         height="69.25074"
+         x="-199.68686"
+         y="82.081161"
+         ry="1.5738806"
+         transform="scale(-1,1)" />
+      <rect
+         style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.0714125"
+         id="rect19"
+         width="0.20457266"
+         height="69.25074"
+         x="-210.79921"
+         y="82.081161"
+         ry="1.5738806"
+         transform="scale(-1,1)" />
+      <rect
+         style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.0714125"
+         id="rect20"
+         width="0.20457266"
+         height="69.25074"
+         x="-225.08652"
+         y="82.081161"
+         ry="1.5738806"
+         transform="scale(-1,1)" />
+      <rect
+         style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.0714125"
+         id="rect21"
+         width="0.20457266"
+         height="69.25074"
+         x="-239.37383"
+         y="82.081161"
+         ry="1.5738806"
+         transform="scale(-1,1)" />
+      <rect
+         style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.0714125"
+         id="rect22"
+         width="0.20457266"
+         height="69.25074"
+         x="-147.30006"
+         y="82.081161"
+         ry="1.5738806"
+         transform="scale(-1,1)" />
+      <rect
+         style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.0899211"
+         id="rect23"
+         width="0.18606408"
+         height="120.72134"
+         x="85.77832"
+         y="142.58923"
+         ry="2.7436671"
+         transform="matrix(0,1,1,0,0,0)" />
+      <rect
+         style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.0899211"
+         id="rect24"
+         width="0.18606408"
+         height="120.72134"
+         x="85.77832"
+         y="142.58923"
+         ry="2.7436671"
+         transform="matrix(0,1,1,0,0,0)" />
+      <rect
+         style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.0899211"
+         id="rect25"
+         width="0.18606408"
+         height="120.72134"
+         x="94.774162"
+         y="142.58923"
+         ry="2.7436671"
+         transform="matrix(0,1,1,0,0,0)" />
+      <rect
+         style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.0899211"
+         id="rect26"
+         width="0.18606408"
+         height="120.72134"
+         x="94.774162"
+         y="142.58923"
+         ry="2.7436671"
+         transform="matrix(0,1,1,0,0,0)" />
+      <rect
+         style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.0899211"
+         id="rect28"
+         width="0.18606408"
+         height="120.72134"
+         x="103.76999"
+         y="142.58923"
+         ry="2.7436671"
+         transform="matrix(0,1,1,0,0,0)" />
+      <rect
+         style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.0899211"
+         id="rect30"
+         width="0.18606408"
+         height="120.72134"
+         x="112.76582"
+         y="142.58923"
+         ry="2.7436671"
+         transform="matrix(0,1,1,0,0,0)" />
+      <rect
+         style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.0899211"
+         id="rect31"
+         width="0.18606408"
+         height="120.72134"
+         x="121.76165"
+         y="142.58923"
+         ry="2.7436671"
+         transform="matrix(0,1,1,0,0,0)" />
+      <rect
+         style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.0899211"
+         id="rect33"
+         width="0.18606408"
+         height="120.72134"
+         x="130.75743"
+         y="142.58923"
+         ry="2.7436671"
+         transform="matrix(0,1,1,0,0,0)" />
+      <rect
+         style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.0899211"
+         id="rect34"
+         width="0.18606408"
+         height="120.72134"
+         x="139.75314"
+         y="142.58923"
+         ry="2.7436671"
+         transform="matrix(0,1,1,0,0,0)" />
+      <rect
+         style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.0899211"
+         id="rect36"
+         width="0.18606408"
+         height="120.72134"
+         x="148.74886"
+         y="142.58923"
+         ry="2.7436671"
+         transform="matrix(0,1,1,0,0,0)" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';display:inline;fill:#ffffff;stroke:none;stroke-width:0.264583"
+         x="150.0612"
+         y="82.564987"
+         id="text4"
+         inkscape:label="Crosshair"><tspan
+           sodipodi:role="line"
+           id="tspan4"
+           style="font-size:3.52778px;stroke:none;stroke-width:0.264583"
+           x="150.0612"
+           y="82.564987">Crosshair</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';display:inline;fill:#ffffff;stroke:none;stroke-width:0.264583"
+         x="170.18651"
+         y="82.559822"
+         id="text5"
+         inkscape:label="Colour"><tspan
+           sodipodi:role="line"
+           id="tspan5"
+           style="font-size:3.52778px;stroke:none;stroke-width:0.264583"
+           x="170.18651"
+           y="82.559822">Colour</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';display:inline;fill:#ffffff;stroke:none;stroke-width:0.264583"
+         x="187.73146"
+         y="82.445274"
+         id="text6"
+         inkscape:label="Sens"><tspan
+           sodipodi:role="line"
+           id="tspan6"
+           style="font-size:3.52778px;stroke:none;stroke-width:0.264583"
+           x="187.73146"
+           y="82.445274">Sens</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';display:inline;fill:#ffffff;stroke:none;stroke-width:0.264583"
+         x="202.61565"
+         y="82.457329"
+         id="text7"
+         inkscape:label="SS"><tspan
+           sodipodi:role="line"
+           id="tspan7"
+           style="font-size:3.52778px;stroke:none;stroke-width:0.264583"
+           x="202.61565"
+           y="82.457329">SS</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';display:inline;fill:#ffffff;stroke:none;stroke-width:0.264583"
+         x="214.35689"
+         y="82.510727"
+         id="text8"
+         inkscape:label="dpi"><tspan
+           sodipodi:role="line"
+           id="tspan8"
+           style="font-size:3.52778px;stroke:none;stroke-width:0.264583"
+           x="214.35689"
+           y="82.510727">DPI</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';display:inline;fill:#ffffff;stroke:none;stroke-width:0.264583"
+         x="228.02948"
+         y="82.540009"
+         id="text9"
+         inkscape:label="edpi"><tspan
+           sodipodi:role="line"
+           id="tspan9"
+           style="font-size:3.52778px;stroke:none;stroke-width:0.264583"
+           x="228.02948"
+           y="82.540009">EDPI</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';display:inline;fill:#ffffff;stroke:none;stroke-width:0.264583"
+         x="242.89909"
+         y="82.559822"
+         id="text15"
+         inkscape:label="Res"><tspan
+           sodipodi:role="line"
+           id="tspan15"
+           style="font-size:3.52778px;stroke:none;stroke-width:0.264583"
+           x="242.89909"
+           y="82.559822">Resolution</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer2"
+       inkscape:label="Info">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         x="148.46071"
+         y="100.92789"
+         id="text3"><tspan
+           sodipodi:role="line"
+           id="tspan3"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="148.46071"
+           y="100.92789">1/12/2/6</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         x="187.37935"
+         y="100.85551"
+         id="text11"><tspan
+           sodipodi:role="line"
+           id="tspan11"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="187.37935"
+           y="100.85551">0.77</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         x="204.10063"
+         y="100.85551"
+         id="text12"><tspan
+           sodipodi:role="line"
+           id="tspan12"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="204.10063"
+           y="100.85551">1</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         x="213.69017"
+         y="100.87722"
+         id="text13"><tspan
+           sodipodi:role="line"
+           id="tspan13"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="213.69017"
+           y="100.87722">400</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         x="228.38382"
+         y="100.87722"
+         id="text14"><tspan
+           sodipodi:role="line"
+           id="tspan14"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="228.38382"
+           y="100.87722">308</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         x="240.38419"
+         y="100.85345"
+         id="text16"><tspan
+           sodipodi:role="line"
+           id="tspan16"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="240.38419"
+           y="100.85345">2560x1440</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         x="151.39961"
+         y="91.932045"
+         id="text36"><tspan
+           sodipodi:role="line"
+           id="tspan36"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="151.39961"
+           y="91.932045">Dot: 2</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+         x="169.41481"
+         y="91.894829"
+         id="text37"><tspan
+           sodipodi:role="line"
+           id="tspan37"
+           style="font-size:4.23333px;fill:#ffffff;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+           x="169.41481"
+           y="91.894829">White</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         x="186.32103"
+         y="91.859665"
+         id="text38"><tspan
+           sodipodi:role="line"
+           id="tspan38"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="186.32103"
+           y="91.859665">0.471</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         x="204.10063"
+         y="91.859665"
+         id="text39"><tspan
+           sodipodi:role="line"
+           id="tspan39"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="204.10063"
+           y="91.859665">1</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         x="213.69017"
+         y="91.881378"
+         id="text40"><tspan
+           sodipodi:role="line"
+           id="tspan40"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="213.69017"
+           y="91.881378">800</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         x="226.26718"
+         y="91.881378"
+         id="text41"><tspan
+           sodipodi:role="line"
+           id="tspan41"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="226.26718"
+           y="91.881378">376.8</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         x="240.38419"
+         y="91.857605"
+         id="text42"><tspan
+           sodipodi:role="line"
+           id="tspan42"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="240.38419"
+           y="91.857605">1680x1050</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         x="149.81213"
+         y="110.45286"
+         id="text44"><tspan
+           sodipodi:role="line"
+           id="tspan44"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="149.81213"
+           y="110.45286">1/5/2/0</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#00ffff;stroke:#4b4b4b;stroke-width:0.264583;stroke-opacity:1"
+         x="171.09843"
+         y="109.88649"
+         id="text45"><tspan
+           sodipodi:role="line"
+           id="tspan45"
+           style="font-size:4.23333px;fill:#00ffff;stroke:#4b4b4b;stroke-width:0.264583;stroke-opacity:1"
+           x="171.09843"
+           y="109.88649">Cyan</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         x="187.37935"
+         y="110.38048"
+         id="text46"><tspan
+           sodipodi:role="line"
+           id="tspan46"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="187.37935"
+           y="110.38048">0.34</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         x="204.10063"
+         y="110.38048"
+         id="text47"><tspan
+           sodipodi:role="line"
+           id="tspan47"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="204.10063"
+           y="110.38048">1</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         x="213.69017"
+         y="110.40218"
+         id="text48"><tspan
+           sodipodi:role="line"
+           id="tspan48"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="213.69017"
+           y="110.40218">800</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         x="228.38382"
+         y="110.40218"
+         id="text49"><tspan
+           sodipodi:role="line"
+           id="tspan49"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="228.38382"
+           y="110.40218">272</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         x="240.38419"
+         y="110.37842"
+         id="text50"><tspan
+           sodipodi:role="line"
+           id="tspan50"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="240.38419"
+           y="110.37842">1920x1080</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         x="149.81213"
+         y="118.9195"
+         id="text52"><tspan
+           sodipodi:role="line"
+           id="tspan52"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="149.81213"
+           y="118.9195">1/3/1/3</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         x="185.79187"
+         y="118.84715"
+         id="text54"><tspan
+           sodipodi:role="line"
+           id="tspan54"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="185.79187"
+           y="118.84715">0.387</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         x="204.10063"
+         y="118.84715"
+         id="text55"><tspan
+           sodipodi:role="line"
+           id="tspan55"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="204.10063"
+           y="118.84715">1</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         x="213.69017"
+         y="118.86887"
+         id="text56"><tspan
+           sodipodi:role="line"
+           id="tspan56"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="213.69017"
+           y="118.86887">800</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         x="226.79634"
+         y="118.86887"
+         id="text57"><tspan
+           sodipodi:role="line"
+           id="tspan57"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="226.79634"
+           y="118.86887">309.6</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         x="240.38419"
+         y="118.84506"
+         id="text58"><tspan
+           sodipodi:role="line"
+           id="tspan58"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="240.38419"
+           y="118.84506">1920x1080</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+         x="169.41481"
+         y="100.89067"
+         id="text84"><tspan
+           sodipodi:role="line"
+           id="tspan84"
+           style="font-size:4.23333px;fill:#ffffff;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+           x="169.41481"
+           y="100.89067">White</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#00ffff;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+         x="171.09843"
+         y="118.88232"
+         id="text85"><tspan
+           sodipodi:role="line"
+           id="tspan85"
+           style="font-size:4.23333px;fill:#00ffff;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+           x="171.09843"
+           y="118.88232">Cyan</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         x="149.51903"
+         y="127.91534"
+         id="text10"><tspan
+           sodipodi:role="line"
+           id="tspan10"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="149.51903"
+           y="127.91534">1/4/2/2</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         x="187.37935"
+         y="127.84298"
+         id="text17"><tspan
+           sodipodi:role="line"
+           id="tspan17"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="187.37935"
+           y="127.84298">0.36</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         x="204.10063"
+         y="127.84298"
+         id="text18"><tspan
+           sodipodi:role="line"
+           id="tspan18"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="204.10063"
+           y="127.84298">1</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         x="213.16101"
+         y="127.86469"
+         id="text19"><tspan
+           sodipodi:role="line"
+           id="tspan19"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="213.16101"
+           y="127.86469">1600</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         x="228.38382"
+         y="127.86469"
+         id="text20"><tspan
+           sodipodi:role="line"
+           id="tspan20"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="228.38382"
+           y="127.86469">576</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         x="240.38419"
+         y="127.84089"
+         id="text21"><tspan
+           sodipodi:role="line"
+           id="tspan21"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="240.38419"
+           y="127.84089">1680x1050</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         x="149.81213"
+         y="137.44022"
+         id="text22"><tspan
+           sodipodi:role="line"
+           id="tspan22"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="149.81213"
+           y="137.44022">1/5/2/0</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#00ffff;stroke:#4b4b4b;stroke-width:0.264583;stroke-opacity:1"
+         x="171.09843"
+         y="136.87387"
+         id="text23"><tspan
+           sodipodi:role="line"
+           id="tspan23"
+           style="font-size:4.23333px;fill:#00ffff;stroke:#4b4b4b;stroke-width:0.264583;stroke-opacity:1"
+           x="171.09843"
+           y="136.87387">Cyan</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         x="187.37935"
+         y="137.36786"
+         id="text24"><tspan
+           sodipodi:role="line"
+           id="tspan24"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="187.37935"
+           y="137.36786">0.34</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         x="204.10063"
+         y="137.36786"
+         id="text25"><tspan
+           sodipodi:role="line"
+           id="tspan25"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="204.10063"
+           y="137.36786">1</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         x="213.69017"
+         y="137.38957"
+         id="text26"><tspan
+           sodipodi:role="line"
+           id="tspan26"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="213.69017"
+           y="137.38957">800</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         x="228.38382"
+         y="137.38957"
+         id="text27"><tspan
+           sodipodi:role="line"
+           id="tspan27"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="228.38382"
+           y="137.38957">272</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         x="240.38419"
+         y="137.36577"
+         id="text28"><tspan
+           sodipodi:role="line"
+           id="tspan28"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="240.38419"
+           y="137.36577">1920x1080</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         x="149.81213"
+         y="145.90677"
+         id="text29"><tspan
+           sodipodi:role="line"
+           id="tspan29"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="149.81213"
+           y="145.90677">1/3/1/3</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         x="185.79187"
+         y="145.83441"
+         id="text30"><tspan
+           sodipodi:role="line"
+           id="tspan30"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="185.79187"
+           y="145.83441">0.277</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         x="204.10063"
+         y="145.83441"
+         id="text31"><tspan
+           sodipodi:role="line"
+           id="tspan31"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="204.10063"
+           y="145.83441">1</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         x="213.69017"
+         y="145.85612"
+         id="text32"><tspan
+           sodipodi:role="line"
+           id="tspan32"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="213.69017"
+           y="145.85612">800</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         x="226.79634"
+         y="145.85612"
+         id="text33"><tspan
+           sodipodi:role="line"
+           id="tspan33"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="226.79634"
+           y="145.85612">221.6</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         x="240.38419"
+         y="145.83232"
+         id="text34"><tspan
+           sodipodi:role="line"
+           id="tspan34"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="240.38419"
+           y="145.83232">1600x1024</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#00ffff;stroke:#4d4d4d;stroke-width:0.264583;stroke-opacity:1"
+         x="169.41481"
+         y="127.87815"
+         id="text35"><tspan
+           sodipodi:role="line"
+           id="tspan35"
+           style="font-size:4.23333px;fill:#00ffff;stroke:#4d4d4d;stroke-width:0.264583;stroke-opacity:1"
+           x="169.41481"
+           y="127.87815">White</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#00ffff;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+         x="171.09843"
+         y="145.86958"
+         id="text53"><tspan
+           sodipodi:role="line"
+           id="tspan53"
+           style="font-size:4.23333px;fill:#00ffff;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+           x="171.09843"
+           y="145.86958">Cyan</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer3"
+       inkscape:label="Title"
+       sodipodi:insensitive="true">
+      <text
+         xml:space="preserve"
+         style="font-size:7.05556px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         x="119.3163"
+         y="73.297798"
+         id="text1"><tspan
+           sodipodi:role="line"
+           id="tspan1"
+           style="font-size:7.05556px;fill:#ffffff;stroke-width:0.264583"
+           x="119.3163"
+           y="73.297798">TOP Players</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer4"
+       inkscape:label="Names">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         x="120.88811"
+         y="101.17557"
+         id="text2"><tspan
+           sodipodi:role="line"
+           id="tspan2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="120.88811"
+           y="101.17557">Shroud</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         x="120.88811"
+         y="92.179726"
+         id="text43"><tspan
+           sodipodi:role="line"
+           id="tspan43"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="120.88811"
+           y="92.179726">Tarik</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         x="120.88811"
+         y="110.70052"
+         id="text51"><tspan
+           sodipodi:role="line"
+           id="tspan51"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="120.88811"
+           y="110.70052">Hitbox</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         x="120.88811"
+         y="119.16718"
+         id="text59"><tspan
+           sodipodi:role="line"
+           id="tspan59"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="120.88811"
+           y="119.16718">Sinatraa</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         x="120.88811"
+         y="128.16301"
+         id="text60"><tspan
+           sodipodi:role="line"
+           id="tspan60"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="120.88811"
+           y="128.16301">Hiko</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         x="120.88811"
+         y="137.68788"
+         id="text61"><tspan
+           sodipodi:role="line"
+           id="tspan61"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="120.88811"
+           y="137.68788">Hitbox</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         x="120.88811"
+         y="146.15443"
+         id="text62"><tspan
+           sodipodi:role="line"
+           id="tspan62"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="120.88811"
+           y="146.15443">Sinatraa</tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="Tabla 2">
+    <g
+       inkscape:groupmode="layer"
+       id="layer6"
+       inkscape:label="Background 2"
+       sodipodi:insensitive="true">
+      <rect
+         style="display:inline;fill:#000000;stroke:#000000;stroke-width:0.0807188"
+         id="rect63-3"
+         width="149.85429"
+         height="90.157951"
+         x="115.9789"
+         y="-52.071964"
+         inkscape:label="Blackbg" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g154"
+       inkscape:label="Rejilla2"
+       transform="translate(0,-115.79516)"
+       sodipodi:insensitive="true">
+      <rect
+         style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.03345"
+         id="rect137"
+         width="0.20457266"
+         height="15.193929"
+         x="-239.90298"
+         y="87.804398"
+         ry="0.34531659"
+         transform="scale(-1,1)" />
+      <rect
+         style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.03345"
+         id="rect138"
+         width="0.20457266"
+         height="15.193929"
+         x="-147.82922"
+         y="87.804398"
+         ry="0.34531659"
+         transform="scale(-1,1)" />
+      <rect
+         style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.0899211"
+         id="rect139"
+         width="0.18606408"
+         height="120.72134"
+         x="91.599159"
+         y="143.11839"
+         ry="2.7436671"
+         transform="matrix(0,1,1,0,0,0)" />
+      <rect
+         style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.0899211"
+         id="rect140"
+         width="0.18606408"
+         height="120.72134"
+         x="91.599159"
+         y="143.11839"
+         ry="2.7436671"
+         transform="matrix(0,1,1,0,0,0)" />
+      <rect
+         style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.0899211"
+         id="rect141"
+         width="0.18606408"
+         height="120.72134"
+         x="100.59499"
+         y="143.11839"
+         ry="2.7436671"
+         transform="matrix(0,1,1,0,0,0)" />
+      <rect
+         style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.0899211"
+         id="rect142"
+         width="0.18606408"
+         height="120.72134"
+         x="100.59499"
+         y="143.11839"
+         ry="2.7436671"
+         transform="matrix(0,1,1,0,0,0)" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';display:inline;fill:#ffffff;stroke:none;stroke-width:0.264583"
+         x="150.59036"
+         y="88.385826"
+         id="text148"
+         inkscape:label="Crosshair"><tspan
+           sodipodi:role="line"
+           id="tspan148"
+           style="font-size:3.52778px;stroke:none;stroke-width:0.264583"
+           x="150.59036"
+           y="88.385826">Crosshair</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';display:inline;fill:#ffffff;stroke:none;stroke-width:0.264583"
+         x="243.42825"
+         y="88.380661"
+         id="text154"
+         inkscape:label="Res"><tspan
+           sodipodi:role="line"
+           id="tspan154"
+           style="font-size:3.52778px;stroke:none;stroke-width:0.264583"
+           x="243.42825"
+           y="88.380661">Resolution</tspan></text>
+      <rect
+         style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.03345"
+         id="rect154"
+         width="0.20457266"
+         height="15.193929"
+         x="-147.82922"
+         y="113.7336"
+         ry="0.34531659"
+         transform="scale(-1,1)" />
+      <rect
+         style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.03345"
+         id="rect155"
+         width="0.20457266"
+         height="15.193929"
+         x="-163.70401"
+         y="113.7336"
+         ry="0.34531659"
+         transform="scale(-1,1)" />
+      <rect
+         style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.03345"
+         id="rect156"
+         width="0.20457266"
+         height="15.193929"
+         x="-174.81636"
+         y="113.7336"
+         ry="0.34531659"
+         transform="scale(-1,1)" />
+      <rect
+         style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.03345"
+         id="rect157"
+         width="0.20457266"
+         height="15.193929"
+         x="-189.10367"
+         y="113.7336"
+         ry="0.34531659"
+         transform="scale(-1,1)" />
+      <rect
+         style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.0639137"
+         id="rect158"
+         width="0.18606408"
+         height="60.988564"
+         x="117.52831"
+         y="143.77011"
+         ry="1.3861039"
+         transform="matrix(0,1,1,0,0,0)" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';display:inline;fill:#ffffff;stroke:none;stroke-width:0.264583"
+         x="151.74861"
+         y="114.19532"
+         id="text158"
+         inkscape:label="Sens"><tspan
+           sodipodi:role="line"
+           id="tspan158"
+           style="font-size:3.52778px;stroke:none;stroke-width:0.264583"
+           x="151.74861"
+           y="114.19532">Sens</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';display:inline;fill:#ffffff;stroke:none;stroke-width:0.264583"
+         x="166.6328"
+         y="114.20731"
+         id="text159"
+         inkscape:label="SS"><tspan
+           sodipodi:role="line"
+           id="tspan159"
+           style="font-size:3.52778px;stroke:none;stroke-width:0.264583"
+           x="166.6328"
+           y="114.20731">SS</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';display:inline;fill:#ffffff;stroke:none;stroke-width:0.264583"
+         x="178.37404"
+         y="114.2607"
+         id="text160"
+         inkscape:label="dpi"><tspan
+           sodipodi:role="line"
+           id="tspan160"
+           style="font-size:3.52778px;stroke:none;stroke-width:0.264583"
+           x="178.37404"
+           y="114.2607">DPI</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';display:inline;fill:#ffffff;stroke:none;stroke-width:0.264583"
+         x="192.04663"
+         y="114.29002"
+         id="text161"
+         inkscape:label="edpi"><tspan
+           sodipodi:role="line"
+           id="tspan161"
+           style="font-size:3.52778px;stroke:none;stroke-width:0.264583"
+           x="192.04663"
+           y="114.29002">EDPI</tspan></text>
+      <rect
+         style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.0639137"
+         id="rect161"
+         width="0.18606408"
+         height="60.988564"
+         x="126.52415"
+         y="143.77011"
+         ry="1.3861039"
+         transform="matrix(0,1,1,0,0,0)" />
+      <rect
+         style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.03345"
+         id="rect162"
+         width="0.20457266"
+         height="15.193929"
+         x="-203.92014"
+         y="113.7336"
+         ry="0.34531659"
+         transform="scale(-1,1)" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer10"
+       inkscape:label="Datos"
+       sodipodi:insensitive="true">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         x="150.4684"
+         y="7.9576402"
+         id="text38-3"
+         inkscape:label="sens"><tspan
+           sodipodi:role="line"
+           id="tspan38-4"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="150.4684"
+           y="7.9576402">0.471</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         x="168.248"
+         y="7.9576402"
+         id="text39-0"
+         inkscape:label="ss"><tspan
+           sodipodi:role="line"
+           id="tspan39-0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="168.248"
+           y="7.9576402">1</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         x="177.83754"
+         y="7.9793534"
+         id="text40-2"
+         inkscape:label="dpi"><tspan
+           sodipodi:role="line"
+           id="tspan40-2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="177.83754"
+           y="7.9793534">800</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         x="190.41457"
+         y="7.9793534"
+         id="text41-6"
+         inkscape:label="Edpi"><tspan
+           sodipodi:role="line"
+           id="tspan41-8"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="190.41457"
+           y="7.9793534">376.8</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         x="240.91335"
+         y="-18.327776"
+         id="text42-3"
+         inkscape:label="Resolución"><tspan
+           sodipodi:role="line"
+           id="tspan42-1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="240.91335"
+           y="-18.327776">1680x1050</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+         x="150.68826"
+         y="-17.829615"
+         id="text162"
+         inkscape:label="Mira"><tspan
+           sodipodi:role="line"
+           id="tspan162"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';fill:#ffffff;stroke:#000000;stroke-width:0.264583"
+           x="150.68826"
+           y="-17.829615">0;s;1;P;o;1;d;1;f;0;0b;0;1b;0;S;d;0</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';display:inline;fill:#ffffff;stroke:none;stroke-width:0.264583"
+         x="125.19067"
+         y="76.744148"
+         id="text163"
+         inkscape:label="Nombre"
+         transform="translate(0,-115.79516)"><tspan
+           sodipodi:role="line"
+           id="tspan163"
+           style="font-size:8.46667px;stroke:none;stroke-width:0.264583"
+           x="125.19067"
+           y="76.744148">Tarik</tspan></text>
+    </g>
+  </g>
+</svg>

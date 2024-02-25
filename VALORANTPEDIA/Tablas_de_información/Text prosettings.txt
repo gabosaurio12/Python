@@ -1,0 +1,167 @@
+Text prosettings
+text.set("""
+	SEN:
+	
+	1.SEN TenZ   		Mira: 0;s;1;P;c;5;h;0;m;1;0l;4;0o;2;0f;0;1b;0;S;c;5;o;1 | Sens: 0.204 | SS: 1.1 | DPI: 1600 | EDPI: 326.4 | RES: 1920x1080 |
+	
+	2.SEN Marved		Mira: OT 0.5/5/2/3 | Colour: Green  | Sens: 0.306  | SS:  1  | DPI: 800  | EDPI: 244.8 | RES: 1920x1080 |
+	
+	3.SEN pANcada   		Mira: OT 1/3/2/5   | Colour: Green  | Sens: 0.66  | SS:  1  | DPI: 400  | EDPI: 264 | RES: 1920x1080 |
+	
+	4.SEN Sacy   		Mira: OT 1/3/2/5   | Colour: Green  | Sens: 0.235 | SS:  1  | DPI: 800  | EDPI: 188 | RES: 1920x1080 |
+	
+	5.SEN Zekken  		Mira: CL 1/3/2/2   | Colour: White  | Sens: 0.54  | SS:  1  | DPI: 400  | EDPI: 216 | RES: 1280x960  |
+		""")
+
+def thi():
+	text.set("""
+	100 Thieves:
+	
+	1.100T Asuna		Mira: OT 1/2/1/3    | Colour: White  | Sens: 0.295 | SS: 0.9 | DPI: 1400 | EDPI: 413   | RES: 1920x1080 |
+	
+	2.100T Hiko 		Mira: CL 1/2/1/3 DFE| Colour: Green  | Sens: 0.36  | SS:  1  | DPI: 1600 | EDPI: 576   | RES: 1680x1050 |
+	           			                1/5/2/4
+	
+	3.100T BabyJ		Mira: No disponible | Colour: Green  | Sens: 0.66  | SS:  1  | DPI: 400  | EDPI: 264   | RES: 1920x1080 |
+	
+	4.100T Ethan		Mira: CL 1/5/2/2    | Colour: Green  | Sens: 0.73  | SS: 0.9 | DPI: 400  | EDPI: 292   | RES: 1280x1024 |
+	
+	5.100T ec1sb		Mira: CL 1/5/2/1    | Colour: Green  | Sens: 0.314 | SS:  1  | DPI: 800  | EDPI: 251.2 | RES: 1920x1080 |
+		""")
+
+def g2():
+	text.set("""
+	G2 Esports:
+	
+	1.G2 Keloqz			Mira: CL 1/4/2/2   | Colour: Cyan   | Sens: 0.44  | SS:  1  | DPI: 400  | EDPI: 176   | RES: 1920x1080 |
+	
+	2.G2 AvovA			Mira: CL 1/4/2/2   | Colour: Cyan   | Sens: 0.628 | SS:  1  | DPI: 400  | EDPI: 251.2 | RES: 1920x1080 |
+	
+	3.G2 nukkye			Mira: OT 1/3/2/2   | Colour: White  | Sens: 0.35  | SS:  1  | DPI: 800  | EDPI: 280   | RES: 1920x1080 |
+	
+	4.G2 Meddo			Mira: OT 1/3/2/2   | Colour: White  | Sens: 0.18  | SS:  1  | DPI: 800  | EDPI: 144   | RES: 1920x1080 |
+	
+	5.G2 Hoddy			Mira: CL 1/3/2/1   | Colour: White  | Sens: 0.¿?  | SS:  1  | DPI: ¿?   | EDPI: 216   | RES: 1920x1080 |
+		""")
+
+def tliq():
+	text.set("""
+	Team Liquid:
+	
+	1.TL ScreaM			Mira: OT Dot 1/3   | Colour: Cyan   | Sens: 0.965 | SS:  1    | DPI: 400  | EDPI: 386   | RES: 1920x1080 |
+	
+	2.TL Nivera			Mira: OT 1/2/1/2   | Colour: Yellow | Sens: 0.173 | SS:  1    | DPI: 800  | EDPI: 138.4 | RES: 1920x1080 |
+	
+	3.TL soulcas		Mira: OT Dot 1/3   | Colour: White  | Sens: 0.524 | SS: 0.88  | DPI: 400  | EDPI: 209.6 | RES: 1920x1080 |
+	
+	4.TL L1NK			Mira: CL 1/5/9/1   | Colour: White  | Sens: 0.49  | SS:  1    | DPI: 400  | EDPI: 196   | RES: 1280x960  |
+	
+	5.TL Jamppi			Mira: OT Dot 1/3   | Colour: White  | Sens: 0.42  | SS: 1.009 | DPI: 800  | EDPI: 336   | RES: 1440x1080 |
+		""")
+
+def ace():
+	text.set("""
+	Ascend:
+	
+	1.ACE cNed	  		Mira: CL 1/2/1/1   | Colour: White  | Sens: 0.32  | SS:  1  | DPI: 800  | EDPI: 256   | RES: 1920x1080 |
+	
+	2.ACE Zeek	 		Mira: OT Dot 1/2   | Colour: White  | Sens: 0.4   | SS:  1  | DPI: 800  | EDPI: 320   | RES: 1440x1080 |
+	
+	3.ACE Kiles   			Mira: CL 1/3/1/2 D | Colour: Green  | Sens: 0.305 | SS:  1  | DPI: 800  | EDPI: 244   | RES: 1280x960  |
+	
+	4.ACE starxo  			Mira: CL 1/4/2/2   | Colour: White  | Sens: 0.48  | SS:  1  | DPI: 800  | EDPI: 388   | RES: 1280x1024 |
+	
+	5.ACE BONECOLD		Mira: CL 1/2/2/1   | Colour: Green  | Sens: 0.314 | SS:  1  | DPI: 800  | EDPI: 251.2 | RES: 1280x960  |
+		""")
+
+def tsm():
+	text.set("""
+	TSM:
+	
+	1.TSM WARDELL		Mira: CL 1/4/1/1   | Colour: White  | Sens: 0.326 | SS: 1.15| DPI: 800  | EDPI: 260.8 | RES: 1920x1080 |
+	
+	2.TSM Subroza		Mira: OT 1/4/1/3   | Colour: Red    | Sens: 0.277 | SS:  1  | DPI: 800  | EDPI: 221.6 | RES: 1600x1024 |
+	
+	3.TSM Drone  		Mira: OT 1/1/2/2   | Colour: Green  | Sens: 0.34  | SS:  1  | DPI: 800  | EDPI: 251.2 | RES: 1920x1080 |
+	
+	4.TSM hazed  		Mira: OT 1/3/2/2   | Colour: Red    | Sens: 0.35  | SS:  1  | DPI: 800  | EDPI: 280   | RES: 1920x1080 |
+	
+	5.TSM reltuC		Mira: CL 1/4/2/4   | Colour: Cyan   | Sens: 0.3   | SS:  1  | DPI: 800  | EDPI: 240   | RES: 1920x1080 |
+		""")
+
+
+def fnc():
+	text.set("""
+	FNATIC:
+	
+	1.FNC Mistic		Mira: CL 1/4/2/2   | Colour: Cyan  | Sens: 0.58 | SS: 0.875 | DPI: 400  | EDPI: 232 | RES: 1920x1080 |
+	
+	2.FNC Derke 		Mira: OT Dot 1/2   | Colour: White  | Sens: 0.74 | SS:  1  | DPI: 400  | EDPI: 296 | RES: 1920x1080 |
+	
+	3.FNC Doma  		Mira: CL 1/4/2/2   | Colour: Cyan  | Sens: 0.35  | SS: 0.75  | DPI: 800  | EDPI: 280 | RES: 1920x1080 |
+	
+	4.FNC Boaster		Mira: OT2 1/6/2/2  | Colour: White  | Sens: 0.52  | SS:  1  | DPI: 400  | EDPI: 208   | RES: 1920x1080 |
+	
+	5.FNC Magnum		Mira: OT Dot 1/1   | Colour: Cyan   | Sens: 0.454 | SS:  1  | DPI: 400  | EDPI: 181.6  | RES: 1280x1024 |
+		""")
+
+
+def env():
+	text.set("""
+	ENVY:
+	
+	1.ENVY yay     		Mira: CL 1/3/2/2   | Colour: Red    | Sens: 0.27  | SS:  1  | DPI: 800  | EDPI: 216   | RES: 1920x1080 |
+	
+	2.ENVY Crashies		Mira: CL 1/4/2/2   | Colour: Green  | Sens: 0.25  | SS: .875| DPI: 800  | EDPI: 200   | RES: 1600x1024 |
+	
+	3.ENVY FNS     		Mira: CL 1/3/2/2   | Colour: Green  | Sens: 0.55  | SS:  1  | DPI: 400  | EDPI: 220   | RES: 1920x1080 |
+	
+	4.ENVY Victor  		Mira: CL 1/4/2/3   | Colour: Yellow | Sens: 0.283 | SS:  1  | DPI: 800  | EDPI: 226.4 | RES: 1920x1080 |
+	
+	5.ENVY MARVED  		Mira: OT 1/5/2/0   | Colour: Cyan   | Sens: 0.306 | SS:  1  | DPI: 800  | EDPI: 244.8 | RES: 1920x1080 |
+		""")
+
+
+def gmb():
+	text.set("""
+	GAMBIT ESPORTS:
+	
+	1.GMB d33fo    		Mira: OT 1/5/2/0 D2| Colour: Green  | Sens: 0.548 | SS:  1  | DPI: 800  | EDPI: 438   | RES: 1280x960  |
+	
+	2.GMB Chronicle		Mira: OT 1/3/1/2   | Colour: Green  | Sens: 0.31  | SS:  1  | DPI: 800  | EDPI: 248   | RES: 1920x1080 |
+	
+	3.GMB Redgar   		Mira: CL 1/4/1/0   | Colour: Green  | Sens: 0.97  | SS:  1  | DPI: 400  | EDPI: 388   | RES: 1280x960  |
+	
+	4.GMB nAts     		Mira: OT 1/2/1/2   | Colour: Green  | Sens: 0.49  | SS:  1  | DPI: 800  | EDPI: 392   | RES: 1280x960  |
+	
+	5.GMB Sheydos  		Mira: OT 2 Dot 1/2 | Colour: Red    | Sens: 0.81  | SS: 1.1 | DPI: 400  | EDPI: 324   | RES: 1280x960  |
+		""")
+
+
+def strea():
+	text.set("""
+	Streamers:
+	
+	2.sinatraa  		Mira: OT 1/3/1/3   | Colour: Cyan   | Sens: 0.277 | SS:  1  | DPI: 800  | EDPI: 221.6 | RES: 1600x1024 |
+	
+	3.Hitboxking		Mira: OT 1/5/2/0   | Colour: Cyan   | Sens: 0.62  | SS:  1  | DPI: 400  | EDPI: 251.2 | RES: 1920x1080 |
+	
+	4.Shroud    		Mira: OT 1/3/2/2   | Colour: Red    | Sens: 0.35  | SS:  1  | DPI: 800  | EDPI: 280   | RES: 1920x1080 |
+	
+	5.Tarik     		Mira: CL 1/4/2/4   | Colour: Cyan   | Sens: 0.3   | SS:  1  | DPI: 800  | EDPI: 240   | RES: 1920x1080 |
+		""")
+
+
+def topp():
+	text.set("""
+	TOP PLAYERS:
+	
+	1.MAX POWER			Mira: CL 1/4/1/3   | Colour: Cyan   | Sens: 0.326 | SS:  1  | DPI: 800  | EDPI: 260.8 | RES: 1920x1080 |
+	
+	2.B1wer    			Mira: OT 1/2/1/3   | Colour: White  | Sens: 0.35 | SS: 0.75 | DPI: 1000 | EDPI: 350   | RES: 1920x1080 |
+	
+	3.TSM Drone  		Mira: OT 1/1/2/2   | Colour: Green  | Sens: 0.34  | SS:  1  | DPI: 800  | EDPI: 251.2 | RES: 1920x1080 |
+	
+	4.TSM hazed  		Mira: OT 1/3/2/2   | Colour: Red    | Sens: 0.35  | SS:  1  | DPI: 800  | EDPI: 280   | RES: 1920x1080 |
+	
+	5.TSM reltuC		Mira: CL 1/4/2/4   | Colour: Cyan   | Sens: 0.3   | SS:  1  | DPI: 800  | EDPI: 240   | RES: 1920x1080 |
